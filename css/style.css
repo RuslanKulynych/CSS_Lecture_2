@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Raleway');
+body {
+    font-family: "Lato";
+    font-weight: 300;
+    font-size: 16px;
+    color: #555;
+    margin: 70px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Raleway";
+    font-weight: 300;
+}
+p {
+    line-height: 20px;
+    margin-bottom: 25px;
+}
+.centered {
+    text-align: center;
+}
+a {
+    color: #777473;
+}
+a:hover,
+a:focus {
+    color: #4b81c2;
+    text-decoration: none;
+    outline: 0;
+}
+.navbar {
+    font-weight: 500;
+    font-size: 16px;
+    background-color: #fff;
+    border-color: black;
+}
+.navbar-brand {
+    color: #d6d4d3;
+    font-weight: bolder;
+    font-size: 22px;
+    letter-spacing: 1px;
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: #d6d4d3;
+    color: black;
+}
+#headerwrap {
+    background: url(../img/sample1.png) no-repeat center top;
+    margin-top: -20px;
+    padding-top: 20px;
+    text-align: left;
+    background-attachment: relative;
+    background-position: center center;
+    min-height: 500px;
+    width: 100%;
+    background-size: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+}
+#headerwrap h1 {
+    margin-top: 100px;
+    color: white;
+    font-size: 70px;
+    font-weight: 300;
+    letter-spacing: 3px;
+}
+#headerwrap h2 {
+    color: white;
+    font-size: 30px;
+}
+.btn {
+    padding: 15px 80px;
+    font-size: 20px;
+    margin-top: 50px;
+}
+.media {
+    box-sizing: border-box;
+    margin-top: 0px;
+    background-color: #fff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.media-logos a {
+    font-size: 25px;
+    margin-left: 30px;
+    display: inline-block;
+    padding: 8px 15px;
+    background-color: #d6d4d3;
+}
+.subs {
+    box-sizing: border-box;
+    background-color: #21b5e6;
+    color: #fff;
+}
+.subs-list {
+    text-align: left;
+    color: #fff;
+}
+.subs-list p {
+    margin-left: 22px;
+}
+.subs-link a {
+    display: inline-block;
+    padding-right: 20px;
+}
+span {
+    color: #21b5e6;
+}
+.guests img {
+    margin-top: 15px;
+}
+.episodes {
+    box-sizing: border-box;
+    background-color: #24221f;
+    padding-bottom: 40px;
+}
+.episodes h2 {
+    color: #fff;
+}
+.episodes p {
+    color: #fff;
+}
+.episodes .link {
+    color: #21b5e6;
+}
+.episodes .link:hover {
+    text-decoration-color: #fff;
+    text-decoration: underline;
+}
+.episodes .btn {
+    border-color: #21b5e6;
+    color: #fff;
+    background-color: Transparent;
+    border-width: 2px;
+    margin-bottom: 20px;
+}
+.episodes .btn:hover {
+    color: #21b5e6;
+}
+.pop-episodes {
+    color: black;
+    margin-bottom: 30px;
+}
+.pop-episodes p {
+    color: #696664;
+}
+.consume {
+    background-color: #d9d8d8;
+    padding-bottom: 40px;
+}
+.footer {
+    background-color: #11110d;
+    color: #fff;
+    padding-bottom: 50px;
+}
+.footer .btn {
+    background-color: Transparent;
+    border-color: #fff;
+    border-width: 2px;
+    margin-bottom: 20px;
+}
+.footer .btn:hover {
+    color: #21b5e6;
+}
+.legalese {
+    background-color: #211f1b;
+    color: #d0cdcd;
+}
+.legalese p {
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
